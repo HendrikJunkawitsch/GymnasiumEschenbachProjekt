@@ -9,6 +9,6 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //pssssst hendrik is hässlicher
+        //pssssst hendrik is hässlicherer
     }
 }
