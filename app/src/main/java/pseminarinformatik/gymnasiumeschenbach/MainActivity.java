@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity
 
         //Hello I'm Hendrik and i'm not awful
         //pssssst hendrik is hässlich
+
+        //Ich bin ein hässlicher Idiot (Philipp 2017)
     }
 }
