@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Penis
-        //Ich versuche etwas hochzuladen
-        //käse
+
     }
 }
